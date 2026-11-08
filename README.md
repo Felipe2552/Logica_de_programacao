@@ -39,7 +39,7 @@ Cada pasta contém os exercícios do módulo correspondente, com o código comen
 
 ## 🎓 Certificado
 
-[Baixar certificado](./certificados/Algoritmos_e_Lógica_de_Programação.pdf)
+[Baixar e visualizar](./certificados/Algoritmos_e_Lógica_de_Programação.pdf)
 
 ---
 ## Contatos
