@@ -39,19 +39,9 @@ Cada pasta contém os exercícios do módulo correspondente, com o código comen
 
 ## 🎓 Certificado
 
-**Baixar certificado em PDF**.
-
-<p align="center">
-  <a href="./certificado/Algoritmos e Lógica de Programação.pdf">
-    <img src="./certificado/certificado.png" alt="Certificado do curso Algoritmo e Lógica de Programação" width="600">
-  </a>
-</p>
-
-🔗 [Baixar certificado em PDF](./certificado/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.pdf)
-
+🔗 [Baixar certificado](./certificado/Algoritmos e Lógica de Programação.pdf)
 
 ---
-
 ## Contatos
 
 📫 [LinkedIn](LINK) · [GitHub](https://github.com/[SEU-USUARIO])
