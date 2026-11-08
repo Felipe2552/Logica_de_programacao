@@ -40,7 +40,7 @@ Cada pasta contém os exercícios do módulo correspondente, com o código comen
 ## 🎓 Certificado
 <p align="center">
   <a href="./certificado/certificado.png">
-    <img src="./certificado/certificado.png" alt="Certificado do curso Algoritmo e Lógica de Programação" width="600">
+    <img src="./certificado/Algoritmos e Lógica de Programação.pdf" alt="Certificado do curso Algoritmo e Lógica de Programação" width="600">
   </a>
 </p>
 
