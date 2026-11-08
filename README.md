@@ -1,8 +1,8 @@
 # 🧠 Lógica de Programação
 
-Repositório com os exercícios e projetos que desenvolvi no curso de **Algoritmo e logica de programação**, oferecido pela empresa **Hashtag Treinamentos** (carga horária: **2 horas**, concluído em **01/2024**).
+Repositório com os exercícios e projetos que desenvolvidos no curso de **Algoritmo e logica de programação**, oferecido pela empresa **Hashtag Treinamentos** (carga horária: **2 horas**, concluído em **01/2024**).
 
-O objetivo foi praticar os fundamentos de lógica de programação, necessários para desenvolver habilidades de análise de dados.
+O **objetivo foi praticar os fundamentos de lógica de programação**, necessários para desenvolver habilidades de análise de dados.
 
 ---
 
@@ -54,23 +54,14 @@ Cada pasta contém os exercícios do módulo correspondente, com o código comen
 
 ## 🛠️ Projeto final
 
-**[Nome do projeto]**: descreva em 2 ou 3 linhas o que ele faz, quais conceitos usa e qual problema resolve.
-
-Exemplo de ideia ligada a dados: um script que lê um arquivo CSV, filtra linhas por uma condição e calcula média, mínimo e máximo de uma coluna.
-
 ---
 
 ## 🎓 Certificado
 
-[Ver certificado](LINK-OU-IMAGEM-DO-CERTIFICADO)
+[Acessar](https://drive.google.com/file/d/1nYvO30uwx91gD3SooqpKYqOn4G345wuo/view?usp=drivesdk)
 
 ---
 
-## 👤 Autor
-
-**Felipe Mateus Souza Serrão**
-Biotecnologista (UFPA) | Mestrando em Genética e Biologia Molecular (UFPA) | Graduando em Ciência de Dados e Análise de Comportamento (Unicesumar)
-
-🔧 SQL · Excel · Python · Power BI
+## Contatos
 
 📫 [LinkedIn](LINK) · [GitHub](https://github.com/[SEU-USUARIO])
