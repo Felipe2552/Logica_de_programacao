@@ -42,6 +42,3 @@ Cada pasta contém os exercícios do módulo correspondente, com o código comen
 [Baixar e visualizar](./Certificados/Algoritmos_e_Lógica_de_Programação.pdf)
 
 ---
-## Contatos
-
-📫 [LinkedIn](LINK) · [GitHub](https://github.com/[SEU-USUARIO])
