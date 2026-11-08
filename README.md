@@ -37,28 +37,12 @@ Cada pasta contém os exercícios do módulo correspondente, com o código comen
 
 ---
 
-## 🚀 Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/[SEU-USUARIO]/logica-de-programacao.git
-   cd logica-de-programacao
-   ```
-2. Tenha o **[Python 3.x / outra linguagem]** instalado.
-3. Execute qualquer exercício:
-   ```bash
-   python 03-condicionais/exercicio_01.py
-   ```
-
----
-
-## 🛠️ Projeto final
-
----
-
 ## 🎓 Certificado
-
-[Acessar](https://drive.google.com/file/d/1nYvO30uwx91gD3SooqpKYqOn4G345wuo/view?usp=drivesdk)
+<p align="center">
+  <a href="./certificado/certificado.png">
+    <img src="./certificado/certificado.png" alt="Certificado do curso Algoritmo e Lógica de Programação" width="600">
+  </a>
+</p>
 
 ---
 
